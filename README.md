@@ -5,23 +5,23 @@ Get IP address of a HTTP request object
 ## Install
 
 ```
-npm install --save get-ip
+npm install --save retrieve-ip
 ```
 
 ## Usage
 
 ```js
 const app = require('express')();
-const getIp = require('get-ip');
+const retrieveIp = require('retrieve-ip');
 
 app.get('/', function(req, res) {
-  const ip = getIp(req);
+  const ip = retrieveIp(req);
 });
 ```
 
 ## API
 
-### getIp(requestObject)
+### retrieveIp(requestObject)
 
 Return IP address of request
 

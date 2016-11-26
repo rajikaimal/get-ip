@@ -2,7 +2,7 @@ const getIp = require('../index');
 const assert = require('chai').assert;
 const isIp = require('is-ip');
 
-describe('test get-ip', function() {
+describe('test retrieve-ip', function() {
   it('should return an IP address', function(done) {
     const req = {};
     Object.defineProperty(req, 'connection', {

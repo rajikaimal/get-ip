@@ -1,5 +1,5 @@
 {
-  "name": "get-ip",
+  "name": "retrieve-ip",
   "version": "1.0.0",
   "description": "Get IP address of a HTTP request object",
   "main": "index.js",
