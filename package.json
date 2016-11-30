@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "repository": {
-    "url": "https://github.com/rajikaimal/get-ip",
+    "url": "https://github.com/rajikaimal/retrieve-ip",
     "type": "git"
   },
   "author": "rajikaimal <inbox.rajika@gmail.com>",
