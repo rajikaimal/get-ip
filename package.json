@@ -13,10 +13,10 @@
   "author": "rajikaimal <inbox.rajika@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "eslint": "^3.10.2",
-    "eslint-config-google": "^0.7.0",
-    "is-ip": "^1.0.0",
-    "mocha": "^3.1.2"
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1",
+    "is-ip": "^2.0.0",
+    "mocha": "^5.2.0"
   }
 }
