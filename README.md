@@ -1,4 +1,4 @@
-# retrieve-ip [![Build Status](https://travis-ci.org/rajikaimal/retrieve-ip.svg?branch=master)](https://travis-ci.org/rajikaimal/retrieve-ip)
+# retrieve-ip [![Build Status](https://travis-ci.org/rajikaimal/retrieve-ip.svg?branch=master)](https://travis-ci.org/rajikaimal/retrieve-ip) [![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/retrieve-ip.svg)](https://greenkeeper.io/)
 
 Get IP address of a HTTP request object
 
